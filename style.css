@@ -252,6 +252,7 @@ button:focus{
     }
     .sub-content .sub-p2{
         font-size: 1rem;
+        text-wrap: wrap;
     }
     .sub-content .sub-p2 span{
         font-size: 1rem;
